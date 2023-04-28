@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function MsgBox2 extends React.Component{
+export default class MsgBox2 extends React.Component{
     render(){
     const divStyle={
         margin: '10px',

@@ -3,7 +3,7 @@ import React from 'react'
 //import Calendar from './class-component'
 //import MsgBox from './func-props'
 //import MsgBox2 from './class-props'
-import List from './/list-comp'
+import List from './list-comp'
 
 function App() {
   return (<List />)
@@ -20,7 +20,7 @@ function App() {
         border="dotted 1px black "
       />
   )*/
- return(
+ /*return(
   <MsgBox2
     text="Using prop in function component"
     color="green"
@@ -28,7 +28,7 @@ function App() {
     fontSize="16pt"
     border="dotted 1px black"
     />
- )
+ )*/
 }
 
 
